@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "1.0.0",
     "summary": "Helper functions for working with Tasks",
     "repository": "https://github.com/ajevans85/elm-task-utils.git",
     "license": "BSD3",
@@ -7,7 +7,7 @@
         "src"
     ],
     "exposed-modules": [
-      "Task.Utils"
+        "Task.Utils"
     ],
     "dependencies": {
         "elm-lang/core": "2.0.0 <= v < 3.0.0"
