@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Helper functions for working with Tasks",
-    "repository": "https://github.com/ajevans85/elm-task-utils",
+    "repository": "https://github.com/ajevans85/elm-task-utils.git",
     "license": "BSD3",
     "source-directories": [
         "src"
